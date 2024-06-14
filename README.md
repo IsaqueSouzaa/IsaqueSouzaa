@@ -3,7 +3,6 @@
 Sejam bem vindo(a) ao meu perfil!😎
 
 - Estudando Desenvolvimento Web Java no Instituto Proa.💙
-- Desenvolvedor full-stack.
 
 
 <div align="center">
