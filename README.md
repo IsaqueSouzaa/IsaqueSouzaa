@@ -65,8 +65,11 @@ Tenho experiência com desenvolvimento Frontend e Backend, criando aplicações 
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/isaque-barbosa-1135931a0)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaquebarbosa463@gmail.com)
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-barbosa-1135931a0/)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaquebarbosa463@gmail.com)
 
 ---
 ⭐ Obrigado por visitar meu perfil!
