@@ -1,4 +1,4 @@
-# Olá, eu sou Isaque Barbosa! 👋
+# Olá, eu sou Isaque! 👋
 
 💻 Desenvolvedor Freelancer  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
