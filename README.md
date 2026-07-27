@@ -1,6 +1,6 @@
 # Olá, eu sou Isaque! 👋
 
-💻 Desenvolvedor Freelancer  
+💻 Desenvolvedor Web  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💙 Ex-aluno do Instituto PROA  
 🚀 Apaixonado por tecnologia, desenvolvimento web e aprendizado contínuo
